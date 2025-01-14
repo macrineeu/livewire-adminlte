@@ -21,3 +21,7 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+/public/theme/css/*
+/public/theme/js/*
+/public/theme/plugins/*
